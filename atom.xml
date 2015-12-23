@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[轻松购购购]]></title>
+  <title><![CDATA[开心就购]]></title>
   <link href="http://happyshopping.github.io/atom.xml" rel="self"/>
   <link href="http://happyshopping.github.io/"/>
-  <updated>2015-12-24T00:16:39+08:00</updated>
+  <updated>2015-12-24T00:23:12+08:00</updated>
   <id>http://happyshopping.github.io/</id>
   <author>
     <name><![CDATA[happyshopping]]></name>
