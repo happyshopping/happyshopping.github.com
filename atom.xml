@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[轻松购购购]]></title>
   <link href="http://happyshopping.github.io/atom.xml" rel="self"/>
   <link href="http://happyshopping.github.io/"/>
-  <updated>2015-12-23T23:44:50+08:00</updated>
+  <updated>2015-12-23T23:49:34+08:00</updated>
   <id>http://happyshopping.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[happyshopping]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
