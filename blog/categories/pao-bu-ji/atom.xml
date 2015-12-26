@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[开心就购]]></title>
-  <link href="http://happyshopping.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[分类跑步机 | 开心就购]]></title>
+  <link href="http://happyshopping.github.io/blog/categories/pao-bu-ji/atom.xml" rel="self"/>
   <link href="http://happyshopping.github.io/"/>
   <updated>2015-12-26T18:25:20+08:00</updated>
   <id>http://happyshopping.github.io/</id>
