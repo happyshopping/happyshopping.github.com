@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://happyshopping.gitcafe.io/blog/0020/</loc>
+    <lastmod>2015-12-27T10:55:24+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://happyshopping.gitcafe.io/blog/0019/</loc>
+    <lastmod>2015-12-27T10:55:17+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://happyshopping.gitcafe.io/blog/0018/</loc>
+    <lastmod>2015-12-27T10:55:11+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://happyshopping.gitcafe.io/blog/0017/</loc>
+    <lastmod>2015-12-27T10:55:07+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://happyshopping.gitcafe.io/blog/0016/</loc>
+    <lastmod>2015-12-27T10:54:57+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://happyshopping.gitcafe.io/blog/0015/</loc>
+    <lastmod>2015-12-27T10:54:52+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://happyshopping.gitcafe.io/blog/0014/</loc>
+    <lastmod>2015-12-27T10:54:41+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://happyshopping.gitcafe.io/blog/0013/</loc>
+    <lastmod>2015-12-27T10:54:37+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://happyshopping.gitcafe.io/blog/0012/</loc>
+    <lastmod>2015-12-27T10:54:29+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://happyshopping.gitcafe.io/blog/0011/</loc>
+    <lastmod>2015-12-27T10:54:11+08:00</lastmod>
+  </url>
+  <url>
     <loc>http://happyshopping.gitcafe.io/blog/0010/</loc>
     <lastmod>2015-12-26T19:26:33+08:00</lastmod>
   </url>
@@ -48,5 +88,8 @@
   </url>
   <url>
     <loc>http://happyshopping.gitcafe.io/blog/categories/pao-bu-ji/</loc>
+  </url>
+  <url>
+    <loc>http://happyshopping.gitcafe.io/blog/categories/xi-yi-ji/</loc>
   </url>
 </urlset>
